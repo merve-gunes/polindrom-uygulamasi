@@ -4,6 +4,7 @@ Bu proje, girilen kelime veya cümlenin **palindrom** olup olmadığını kontro
 Palindromlar; tersten okunduğunda da aynı kalan kelime veya ifadelerdir.
 
 ##  Canlı Demo
+https://merve-gunes.github.io/polindrom-uygulamasi/
 
 
 ##  Özellikler
